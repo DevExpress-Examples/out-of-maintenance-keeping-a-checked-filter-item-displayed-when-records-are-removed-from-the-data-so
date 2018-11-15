@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraPivotGrid_S18746/Form1.cs) (VB: [Form1.vb](./VB/XtraPivotGrid_S18746/Form1.vb))
+<!-- default file list end -->
 # Keeping a checked filter item displayed when records are removed from the data source
 
 
